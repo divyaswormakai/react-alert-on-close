@@ -1,0 +1,22 @@
+{
+  "name": "react-alert-on-close",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/divyaswormakai/react-alert-on-close",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "alert",
+    "unload",
+    "close",
+    "exit"
+  ],
+  "author": "Divyaswor Makai",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
